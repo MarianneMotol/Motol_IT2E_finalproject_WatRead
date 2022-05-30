@@ -109,3 +109,8 @@ header {
 	border: 1px solid #fd4a47;
 	transition: 0.5s all ease out;
 }
+
+.profile{
+	height: 100px;
+	weight: 300px;
+}
