@@ -10,7 +10,7 @@ html,body {
 }
 
 header {
-	background-image: linear-gradient(rgba(38,53,70,0.80), rgba(40,56,72,0.81)), url(background.jpg);
+	background-image: linear-gradient(rgba(38,53,70,0.80), rgba(40,56,72,0.81)), url(faqs/background.jpg);
 	height: 100vh;
 	background-size: 1500px 600px;
 	background-origin: cover;
@@ -27,7 +27,7 @@ header {
 }
 
 .logo {
-	background: url(logo.png);
+	background: url(faqs/logo.png);
 	width: 150px;
 	height: 150px;
 	background-position: center;
